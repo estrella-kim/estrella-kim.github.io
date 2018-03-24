@@ -56,4 +56,4 @@ email: puris38@naver.com
 
 # The following settings are NECESSARY for the Prologue theme to run:
 theme: jekyll-theme-prologue
-#collections: [sections]
+collections: [sections]

@@ -8,11 +8,13 @@
     "node-sass": "^4.7.2"
   },
   "devDependencies": {
+    "jekyll": "^3.0.0-beta1",
     "node-sass": "^4.7.2"
   },
   "scripts": {
+    "dev": "jekyll serve",
     "test": "npm run scss-compile",
-    "scss-compile" : "node-sass ./_sass -o ./assets/css"
+    "scss-compile": "node-sass ./_sass -o ./assets/css"
   },
   "repository": {
     "type": "git",
