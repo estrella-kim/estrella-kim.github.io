@@ -1,2 +1,6 @@
 source "https://rubygems.org"
-gemspec
+
+gem "jekyll"
+gem "RedCloth"
+gem "rdiscount"
+gem 'jekyll-sitemap'
