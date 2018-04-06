@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Open Source Aviation Makes It Possible to Own a Private Airplane for $15,000
-custom-link: "https://wowmoron.wordpress.com/2013/10/16/open-source-aviation-makes-it-possible-to-own-a-private-airplane-for-15000/"
-categories: [informative]
+title: HTTP header의 content-disposition 설정
+categories: [server]
 ---
-What!! Do you think am bluffing??? Unfortunately am not. Buying an Airplane is no more a distant dream, thanks to Open Source technology....
+
+일반적인 HTTP 응답에서 Content-disposition 응답헤더는 컨텐트가 inline으로 기재하는 설정이다.
+
+```multipart/form-data```
+
+참고 : (https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition)[https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition]

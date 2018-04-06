@@ -1,5 +1,5 @@
 ---
 title: Frontend info
-short-description: informations about frontend
+short-description: Informations about frontend
 permalink: frontend
 ---
