@@ -1,0 +1,22 @@
+{
+  "name": "estrella-kim.github.io",
+  "version": "1.0.0",
+  "description": "This is the data for my personal website\r ========================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estrella-kim/estrella-kim.github.io.git"
+  },
+  "author": "estrella-kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estrella-kim/estrella-kim.github.io/issues"
+  },
+  "homepage": "https://github.com/estrella-kim/estrella-kim.github.io#readme",
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1"
+  }
+}

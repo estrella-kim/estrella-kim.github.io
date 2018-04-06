@@ -11,10 +11,10 @@ rdiscount:
   extensions: [smart]
 
 # This is the default base url path.
-BASE_PATH : http://meliodus.github.io/
+BASE_PATH : http://estrella-kim.github.io/
 
 # Website title.
-title : talk2ankan<small>Introvert Geek Diaries</small>
+title : talk2ankan<small>Estrella's development blog</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
@@ -35,20 +35,16 @@ permalink: /:title
 ###########################
 author:
 # Info
-  name: Ankan Biswas
-  role: Computer Programmer
-  email: meliodus@tutanota.com
-  image: images/ankan.png
+  name: Estrella Kim
+  role: Frontend Deveolper
+  email: puris38@naver.com
+  image: images/image.jpeg
 # Social
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  soundcloud: meliodus
-  reddit: talk2ankan
+  github: estrella-kim
 #  About
-  about: "Salutation, this is my-space my-world. I dream , i hallucinate, i am curious and ambitious."
+  about: "I dream a goal, make a goal, achieve a goal,"
 # copyright
-  copyright: "Some rights reserved &#169; 2015 Ankan Biswas."
+  copyright: "Some rights reserved &#169; Estrella-kim."
 
 # Disable custom plugins,and ignore symbolic links..
 # For more see: http://jekyllrb.com/docs/configuration/
