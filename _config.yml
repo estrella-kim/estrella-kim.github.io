@@ -11,7 +11,7 @@ rdiscount:
   extensions: [smart]
 
 # This is the default base url path.
-BASE_PATH : http://estrella-kim.github.io/
+BASE_PATH : https://estrella-kim.github.io/
 
 # Website title.
 title : Estrella's<small>development blog</small>
