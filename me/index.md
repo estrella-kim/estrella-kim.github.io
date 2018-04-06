@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Life {me} | Things that brings Me to Life
+title: Life | Things that brings Me to Life
 ---
 
-<h1>Life {me}</h1>
+<h1>Life</h1>
 <hr/>
 {% for category in site.categories %}
 {% if category[0] == "me" %}

@@ -14,7 +14,7 @@ rdiscount:
 BASE_PATH : http://estrella-kim.github.io/
 
 # Website title.
-title : talk2ankan<small>Estrella's development blog</small>
+title : Estrella's<small>development blog</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
@@ -38,7 +38,7 @@ author:
   name: Estrella Kim
   role: Frontend Deveolper
   email: puris38@naver.com
-  image: images/image.jpeg
+  image: images/image.jpg
 # Social
   github: estrella-kim
 #  About
