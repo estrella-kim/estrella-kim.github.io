@@ -1,0 +1,28 @@
+---
+layout: post
+title: Vuex
+categories: [fontend]
+---
+Vuex는 Vue.js의 데이터를 확장성있고 추적하기 쉽도록 관리하기위해 고안된 어플리케이션 상태관리패턴이다.
+
+일반적인 Vue.js는 state과 props로 상태를 관리한다. 상위 component에서 아래 component로 데이터가 단방향으로 흐른다.
+
+어플리케이션의 규모가 커지고 복잡해지면 action에 따라 하위 컴포넌트들이 서로 간 데이터를 공유하는 것이 복잡해진다.
+
+따라서 하나의 저장소가 모든 데이터를 관리하고 컴포넌트들이 이를 통해 데이터의 흐름을 받는 중앙집중적인 패턴이 등장한다.
+
+Vuex는 Flux패턴 , Redux(Flux패턴에서 나온 React 프레임워크를 위한 패턴) ,The Elm Architecture에서 영향을 받아 만들어진 패턴이다.
+
+하나의 저장소(store)가 데이터를 관리하고, 컴포넌트들은 이 store에서 데이터와 메소드를 받아 관리한다.
+
+### Store
+```
+* State : 데이터의 상태
+
+* Getters : state을 기반으로 컴포넌트에 공통적으로 쓰이는 변경되는 데이터 상태.
+
+* Mutations : 공통적인 메소드들 (컴포넌트의 메소드에 commit한다.)
+
+* Actions : action에 대해 정의해놓는다. (컴포넌트의 method에 dispatch한다. )
+
+```
