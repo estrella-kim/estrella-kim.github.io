@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vuex
-categories: [fontend]
+categories: [frontend]
 ---
 Vuex는 Vue.js의 데이터를 확장성있고 추적하기 쉽도록 관리하기위해 고안된 어플리케이션 상태관리패턴이다.
 

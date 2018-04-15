@@ -1,6 +1,0 @@
----
-layout: post
-title: Easiest Way to Install Lamp on Ubuntu
-categories: [informative]
----
-LAMP(Linux, Apache, MySQL, PHP or Perl) is one of the most essential servers needed by the web developers or web entrepreneurs around the globe....
