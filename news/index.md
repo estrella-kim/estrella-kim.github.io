@@ -3,7 +3,7 @@ layout: default
 title: Code {hacks} | If code is Your Thing
 ---
 
-<h1>Code {hacks}</h1>
+<h1>News</h1>
 <hr/>
 
 {% for category in site.categories %}

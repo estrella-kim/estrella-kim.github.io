@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Open Source Projects | Code that Might be Useful to You
+title: Server Info | Code that Might be Useful to You
 ---
 
 <h1>Open Source Projects</h1>

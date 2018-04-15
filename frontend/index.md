@@ -3,7 +3,7 @@ layout: default
 title: 
 ---
 
-<h1>Informative</h1>
+<h1>Frontend</h1>
 <hr/>
 
 {% for category in site.categories %}
