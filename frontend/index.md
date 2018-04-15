@@ -7,7 +7,7 @@ title:
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "informative" %}
+{% if category[0] == "frontend" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}

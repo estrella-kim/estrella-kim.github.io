@@ -7,7 +7,7 @@ title: Code {web} | Code that Might be Useful to Web Developer
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "web" %}
+{% if category[0] == "database" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}

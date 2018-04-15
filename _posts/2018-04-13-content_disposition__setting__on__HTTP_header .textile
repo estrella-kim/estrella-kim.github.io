@@ -1,7 +1,7 @@
 ---
--layout: post
--title: HTTP header의 content-disposition 설정
--categories: [server]
+layout: post
+title: HTTP header의 content-disposition 설정
+categories: server
 ---
 일반적인 HTTP 응답에서 Content-disposition 응답헤더의 defualt 설정은 inline이다.
 

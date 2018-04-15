@@ -7,7 +7,7 @@ title: Server Info | Code that Might be Useful to You
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "projects" %}
+{% if category[0] == "server" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}

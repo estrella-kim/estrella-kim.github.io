@@ -6,7 +6,7 @@ title: Basic info | basic informations about software
 <h1>Basic info</h1>
 <hr/>
 {% for category in site.categories %}
-{% if category[0] == "me" %}
+{% if category[0] == "basic" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}
