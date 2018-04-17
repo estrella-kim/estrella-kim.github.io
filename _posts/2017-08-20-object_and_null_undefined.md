@@ -76,7 +76,7 @@ undefined + null //NaN
 
 null + null // 0
 
-undefined + "string"; // "undefinedstring"
+undefined + "string"; // "undefin      dstring"
 
 ```
 
