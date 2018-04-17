@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vuex
+title: framework
 categories: [frontend]
 ---
 회사에서 파트너페이지에서 Angularjs(버전 1점대)를 프레임워크로 사용하고 있는 데다가 최근에는 React 프레임워크로 간단하게 todo-app을 만들어보았다. 
