@@ -1,8 +1,8 @@
- ---
- layout: post
- title: 오류와 에러, 예외처리란
- categories: [basic]
- ---
+---
+layout: post
+title: 오류와 에러, 예외처리란
+categories: [basic]
+---
  
  1. 예외처리의 관점
  
