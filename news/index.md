@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Code {hacks} | If code is Your Thing
+title: Database | If code is Your Thing
 ---
 
 <h1>News</h1>
