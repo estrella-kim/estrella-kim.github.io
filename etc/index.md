@@ -3,11 +3,11 @@ layout: default
 title: Database | If code is Your Thing
 ---
 
-<h1>News</h1>
+<h1>ETC</h1>
 <hr/>
 
 {% for category in site.categories %}
-{% if category[0] == "news" %}
+{% if category[0] == "etc" %}
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title %}
