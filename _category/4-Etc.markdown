@@ -1,5 +1,5 @@
 ---
-title: News
+title: ETC
 short-description: News that is related to software
-permalink: news
+permalink: etc
 ---
