@@ -37,6 +37,9 @@ app.get('*', function(req, res) {
 또한 render메소드가 브라우저에게 string으로 전달만 해줄뿐 브라우저에서 결국 렌더링해주기 때문에 무의미한 일을 해주었다.
 따라서 sendFile로 html 파일을 스트링으로 보내주고, 브라우저가 받은 파일을 렌더링해주는 방법이 더 적합했다.
 
+```javscript
+res.sendFile(path [, options] [, fn])
+```
 
 ```javascript
 const template = path.join(__dirname, './public', 'index.html');
